@@ -5237,7 +5237,7 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: var(--mobileday-bg);
+    background: url(https://i.postimg.cc/Pq92j6JJ/1696168102424.jpg);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
